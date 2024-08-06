@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 </p>
 
 ___
+#### 🏆 **Trophys**
+<p align="center">
+  <a href="https://wangchujiang.com/"><img height="100" src="https://github-profile-trophy.vercel.app/?username=wlauton&theme=dark_lover&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" /></a>
+</p>
+
+___
 
 <details>
   <summary><b>:bar_chart: &nbsp;GitHub Statistics</b></summary>
