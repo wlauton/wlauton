@@ -1,5 +1,8 @@
-## Hi there 👋
-
+<h1 align='center'>👋 Hello world!</h1>
+<p align='center'>
+<a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fwlauton"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2Fwlauton&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+<a href="https://github.com/wlauton?tab=repositories"><img src="https://img.shields.io/github/stars/wlauton?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+</p>
 <!--
 **wlauton/wlauton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
